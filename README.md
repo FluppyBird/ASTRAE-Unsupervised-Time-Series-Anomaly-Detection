@@ -29,9 +29,9 @@ The workflow includes:
 
 1. Clone the repository:
    ```
-bash
-git clone https://github.com/FluppyBird/ASTRAE-Unsupervised-Time-Series-Anomaly-Detection.git
-cd ASTRAE-Unsupervised-Time-Series-Anomaly-Detection
+   bash
+   git clone https://github.com/FluppyBird/ASTRAE-Unsupervised-Time-Series-Anomaly-Detection.git
+   cd ASTRAE-Unsupervised-Time-Series-Anomaly-Detection
    ```
 2. Open the preprocessing notebook and run all cells:
    `data_analytics_preprocessing.ipynb`
