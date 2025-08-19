@@ -28,7 +28,8 @@ The workflow includes:
 ## ✅ How to Run
 
 1. Clone the repository:
-   ```bash
+   ```
+bash
 git clone https://github.com/FluppyBird/ASTRAE-Unsupervised-Time-Series-Anomaly-Detection.git
 cd ASTRAE-Unsupervised-Time-Series-Anomaly-Detection
    ```
